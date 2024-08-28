@@ -1,0 +1,1 @@
+import{s as u,x as v,t as _}from"./index-Be4DDZz4.js";var n=Object.defineProperty,g=Object.getOwnPropertyDescriptor,O=(f,r,t,o)=>{for(var e=o>1?void 0:o?g(r,t):r,s=f.length-1,p;s>=0;s--)(p=f[s])&&(e=(o?p(r,t,e):p(e))||e);return o&&e&&n(r,t,e),e};let l=class extends u{render(){return v`Logged out!`}};l=O([_("dms-logout")],l);export{l as Logout};
